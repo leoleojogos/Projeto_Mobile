@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Explorador de Locais</string>
+    <string name="titulo">Explorador de Locais</string>
+    <string name="subtitulo">Digite uma cidade, praça, monumento ou restaurante e veja no mapa.</string>
+    <string name="hint_busca">Ex.: Praça Nereu Ramos, Criciúma - SC</string>
+    <string name="botao_explorar">Explorar</string>
+    <string name="erro_campo_vazio">Digite um local para explorar</string>
+    <string name="erro_sem_app">Nenhum app de mapas ou navegador encontrado neste dispositivo.</string>
+</resources>

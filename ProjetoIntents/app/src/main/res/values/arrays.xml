@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sugestoes_locais">
+        <item>Praça Nereu Ramos, Criciúma - SC</item>
+        <item>Praça do Congresso, Criciúma - SC</item>
+        <item>Catedral São José, Criciúma - SC</item>
+        <item>Parque das Nações, Criciúma - SC</item>
+        <item>Museu da Colonização, Criciúma - SC</item>
+        <item>Criciúma - SC</item>
+        <item>Morro da Fumaça - SC</item>
+        <item>Florianópolis - SC</item>
+        <item>Beto Carrero World, Penha - SC</item>
+        <item>Cristo Redentor, Rio de Janeiro - RJ</item>
+        <item>Torre Eiffel, Paris</item>
+        <item>Coliseu, Roma</item>
+    </string-array>
+</resources>
