@@ -228,10 +228,10 @@ Deixe o projeto aberto e funcionando para evitar perda de tempo durante a demons
 
 | Integrante | GitHub |
 |---|---|
-| Nome | [@leoleojogos](https://github.com/leoleojogos) |
-| Nome | [@PedroBellarminoCardoso](https://github.com/PedroBellarminoCardoso) |
-| Nome | [@gvm7b](https://github.com/gvm7b) |
-| Nome | [@elison4](https://github.com/elison4) |
+| Leonardo | [@leoleojogos](https://github.com/leoleojogos) |
+| Pedro Bellarmino | [@PedroBellarminoCardoso](https://github.com/PedroBellarminoCardoso) |
+| Guilherme | [@gvm7b](https://github.com/gvm7b) |
+| Elison | [@elison4](https://github.com/elison4) |
 
 ---
 
