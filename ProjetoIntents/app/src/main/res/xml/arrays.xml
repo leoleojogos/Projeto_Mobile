@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--
-        Sugestões locais usadas pelo AutoCompleteTextView.
-        O filtro do ArrayAdapter casa pelo INÍCIO de cada palavra,
-        então "praça", "nereu" ou "criciúma" já fazem o item aparecer.
-    -->
+
     <string-array name="sugestoes_locais">
         <item>Praça Nereu Ramos, Criciúma - SC</item>
         <item>Praça do Congresso, Criciúma - SC</item>
